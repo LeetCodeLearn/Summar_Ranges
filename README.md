@@ -1,0 +1,2 @@
+# Summar_Ranges
+Given a sorted integer array without duplicates, return the summary of its ranges.
